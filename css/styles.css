@@ -1,14 +1,25 @@
 body,
 html,
-main {
+main,
+footer {
   width: 100%;
-  height: 100%;
   margin: 0;
   padding: 0;
   font-family: arial, sans-serif; }
 
+a {
+  text-decoration: none;
+  color: white; }
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0; }
+
 nav {
-  background-color: #d35649; }
+  background-color: #d35649;
+  margin: 0;
+  padding: 0; }
 
 .logo {
   font-family: "Brush Script MT, Brush Script Std", cursive;
@@ -33,7 +44,6 @@ nav {
 .top-searching-section {
   background: url(../assets/images/1.jpg) no-repeat center fixed;
   background-size: cover;
-  width: 100vw;
   padding: 30% 0.5rem 30% 0.5rem;
   margin: 0 auto; }
 
@@ -107,5 +117,43 @@ nav {
 
 .ds-article .how-btn {
   margin: 0 auto; }
+
+.top-part {
+  background-color: black;
+  color: white;
+  padding: 2rem; }
+
+.top-part-ul {
+  margin: 0 auto;
+  border-top: 1px solid gray;
+  border-bottom: 1px solid gray;
+  text-align: center; }
+
+.top-part-ul h1 {
+  height: 6rem;
+  width: 6rem;
+  border-top: 1px solid gray;
+  border-bottom: 1px solid gray;
+  border-radius: 50%;
+  margin: 0 auto;
+  padding-top: 1.8rem; }
+
+.social-div {
+  margin-bottom: 0.5rem; }
+
+.social-div i {
+  color: gray;
+  margin-right: 1rem; }
+
+.bottom-part {
+  padding: 2rem;
+  background-color: #1f1f1f;
+  color: gray; }
+
+.top-part section a {
+  color: #d35649; }
+
+.top-part .form-btn {
+  background-color: gray; }
 
 /*# sourceMappingURL=styles.css.map */
