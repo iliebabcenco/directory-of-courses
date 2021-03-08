@@ -1,3 +1,61 @@
+body,
+html {
+  margin: 0;
+  padding: 0;
+  font-family: arial, sans-serif; }
 
+nav {
+  background-color: #d35649; }
+
+.logo {
+  font-family: "Brush Script MT, Brush Script Std", cursive;
+  font-size: 2rem;
+  color: white;
+  width: 13rem;
+  margin: 0 auto 1rem auto; }
+
+.menu-list {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  display: flex;
+  justify-content: center; }
+
+.menu-list-item a {
+  color: white; }
+
+.menu-list-item {
+  margin: 0 2rem 1.5rem 2rem; }
+
+main {
+  background: url(../assets/images/1.jpg) no-repeat center fixed;
+  padding: 15rem 0.5rem 15rem 0.5rem; }
+
+.search-heading {
+  color: white;
+  text-align: center;
+  font-weight: 700; }
+
+.search-section {
+  background-color: rgba(255, 255, 255, 0.7);
+  padding: 0.5rem;
+  border-radius: 5%; }
+
+.search-section-header {
+  margin: 0.7rem 0 0 0;
+  font-weight: 600; }
+
+.form-btn {
+  background-color: #d35649;
+  color: white;
+  margin: 0.7rem 0 1rem 0;
+  width: 100%; }
+
+.how-btn {
+  background-color: rgba(209, 205, 205, 0.8);
+  display: block;
+  font-weight: 600;
+  width: 10rem;
+  margin: 3rem auto; }
 
 /*# sourceMappingURL=styles.css.map */
