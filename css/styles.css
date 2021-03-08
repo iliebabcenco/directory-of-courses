@@ -170,6 +170,10 @@ footer {
   margin: 0;
   border: none; }
 
+.results h2 {
+  margin: 2rem auto 0rem auto;
+  text-align: center; }
+
 .result-section-form {
   background-color: #eee;
   margin: 1rem;
@@ -183,5 +187,48 @@ footer {
   width: 100%;
   background-color: white;
   text-align: right; }
+
+.results-article {
+  margin: 2rem auto;
+  width: 28rem;
+  height: 28rem; }
+
+.results-article h3 {
+  text-align: center;
+  top: 30rem;
+  background-color: rgba(255, 255, 255, 0.7);
+  width: 20rem;
+  position: relative;
+  top: 50%;
+  margin: 0 auto;
+  padding: 1rem;
+  color: #d35649; }
+
+.results-article a {
+  color: #509BD7; }
+
+#ra-1 {
+  background: url(../assets/images/javabegg.jpg) no-repeat center;
+  background-size: cover; }
+
+#ra-2 {
+  background: url(../assets/images/pythonbeg.png) no-repeat;
+  background-size: cover; }
+
+#ra-3 {
+  background: url(../assets/images/rubybeg.png) no-repeat;
+  background-size: cover; }
+
+#ra-4 {
+  background: url(../assets/images/javascriptbeg.jpg) no-repeat;
+  background-size: cover; }
+
+#ra-5 {
+  background: url(../assets/images/webbeg.jpg) no-repeat center;
+  background-size: cover; }
+
+#ra-6 {
+  background: url(../assets/images/rubyonrailsbeg.jpg) no-repeat;
+  background-size: cover; }
 
 /*# sourceMappingURL=styles.css.map */
