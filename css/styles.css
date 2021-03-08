@@ -118,6 +118,9 @@ nav {
 .ds-article .how-btn {
   margin: 0 auto; }
 
+footer {
+  font-size: 0.8rem; }
+
 .top-part {
   background-color: black;
   color: white;
@@ -153,7 +156,32 @@ nav {
 .top-part section a {
   color: #d35649; }
 
+#tf-2 {
+  width: 15rem;
+  height: 3rem; }
+
+.input-group {
+  padding: 1rem 0; }
+
 .top-part .form-btn {
-  background-color: gray; }
+  background-color: gray;
+  width: 7rem;
+  height: 3rem;
+  margin: 0;
+  border: none; }
+
+.result-section-form {
+  background-color: #eee;
+  margin: 1rem;
+  padding: 3rem; }
+
+.btn-div {
+  margin: 1rem auto;
+  text-align: center; }
+
+.dropdown-toggle {
+  width: 100%;
+  background-color: white;
+  text-align: right; }
 
 /*# sourceMappingURL=styles.css.map */

@@ -14,7 +14,7 @@
 
 <body>
     <nav>
-        <h1 class="logo">mindCompilator</h1>
+        <h1 class="logo"><a href="../index.html"> mindCompilator</a></h1>
         <ul class="menu-list">
             <li class="menu-list-item"><a href="#"><i class="fas fa-search"></i></a></li>
             <li class="menu-list-item"><a href="#"><i class="fas fa-user"></i></a></li>
@@ -29,13 +29,13 @@
             </h1>
             <section class="search-section col">
                 <h3 class="search-section-header">SEARCH BY KEY WORD:</h3>
-                <form class="form" action="#">
+                <form class="form" action="./pages/results.html">
                     <label for="tf-1"></label>
                     <input id="tf-1" class="form-control" type="text" placeholder="E.x.: JavaScript DOM">
                     <input class="form-btn btn" type="submit" value="SEARCH">
                 </form>
             </section>
-            <button class="btn how-btn">How it works</button>
+            <button class="btn how-btn" type="button">How it works</button>
         </section>
         <section class="about-section">
             <h3 class="about-section-heading row">Best courses of the best programming languages</h3>
@@ -111,10 +111,12 @@
                 <li><a href="#">BLOG</a></li>
                 <li><a href="#">GOOGLE+</a></li>
             </ul>
-            <form class="form" action="#">
-                <label for="tf-2"></label>
-                <input id="tf-2" class="form-control" type="text" placeholder="you@example.com">
-                <input class="form-btn btn" type="submit" value="send">
+            <form class="form-inline" action="#">
+                <div class="input-group">
+                    <label for="tf-2"></label>
+                    <input id="tf-2" class="form-control" type="text" placeholder="you@example.com">
+                    <input class="form-btn btn form-control" type="submit" value="Send">
+                </div>
             </form>
             <section class="footer-contact-section">
                 <h3>CONTACT</h3>
