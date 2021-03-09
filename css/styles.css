@@ -248,7 +248,7 @@ footer {
   background-size: cover; }
 
 .selection-result-article {
-  margin: 6rem auto 2rem auto;
+  margin: 4rem auto 2rem auto;
   width: 95%;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   text-align: center;
@@ -277,10 +277,10 @@ footer {
 
 .more-div a {
   color: black;
-  letter-spacing: 1rem; }
+  letter-spacing: 0.7rem; }
 
 .location-div {
-  margin: 0 auto;
+  margin: 0 auto 3rem auto;
   width: 95%;
   text-align: center; }
 
