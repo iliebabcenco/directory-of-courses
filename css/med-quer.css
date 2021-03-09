@@ -103,6 +103,14 @@
         width: 47%;
     }
 
+    /* details-page main section */
+
+    .selection-divs {
+        display: grid;
+        grid-template-columns: 50% 50%;
+        grid-gap: 5px;
+    }
+
 }
 
 @media only screen and (min-width: 1024px) {
@@ -161,7 +169,7 @@
 
     .ds-article {
         display: block;
-        width: 33%;
+        width: auto;
         position: relative;
         padding-bottom: 5rem;
     }
