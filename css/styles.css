@@ -41,6 +41,9 @@ nav {
 .menu-list-item {
   margin: 0 2rem 1.5rem 2rem; }
 
+.nav-describers {
+  display: none; }
+
 .top-searching-section {
   background: url(../assets/images/1.jpg) no-repeat center fixed;
   background-size: cover;
@@ -75,7 +78,9 @@ nav {
   margin: 3rem auto; }
 
 .about-section {
-  margin: 1rem; }
+  margin: 0 auto;
+  background-color: white;
+  padding: 1rem; }
 
 .about-sec-article {
   text-align: center;
@@ -130,7 +135,8 @@ footer {
   margin: 0 auto;
   border-top: 1px solid gray;
   border-bottom: 1px solid gray;
-  text-align: center; }
+  text-align: center;
+  padding: 1rem 0; }
 
 .top-part-ul h1 {
   height: 6rem;
@@ -140,6 +146,11 @@ footer {
   border-radius: 50%;
   margin: 0 auto;
   padding-top: 1.8rem; }
+
+.footer-contact-section,
+.footer-about-section,
+.bottom-part {
+  text-align: center; }
 
 .social-div {
   margin-bottom: 0.5rem; }

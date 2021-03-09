@@ -1,0 +1,136 @@
+@media only screen and (min-width: 768px) {
+
+    /* nav  */
+    .menu-list-item {
+        padding-top: 2rem;
+    }
+
+    nav {
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+        padding: 0.7rem;
+    }
+
+    .logo {
+        margin: 0;
+    }
+
+    /* main search section  */
+
+    .search-heading,
+    .search-section {
+        width: 60%;
+        margin: 0 auto;
+    }
+
+    .top-searching-section {
+        padding: 10rem 0 5rem 0;
+    }
+
+    /* main details section */
+
+    .ds-art-div {
+        text-align: left;
+        margin: 0.5rem;
+    }
+
+    .ds-art-div .how-btn {
+        display: inline;
+    }
+
+    .ds-article {
+        padding-left: 1rem;
+        display: flex;
+        flex-direction: row-reverse;
+        align-items: center;
+        justify-content: space-between;
+    }
+
+    /* footer */
+
+    .top-part-ul {
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+        max-width: 1300px;
+    }
+
+}
+
+@media only screen and (min-width: 1024px) {
+
+    body {
+        background-color: #eceaea;
+    }
+
+    main {
+        max-width: 1600px;
+        margin: 0 auto;
+
+    }
+
+    /* nav */
+    .nav-describers {
+        display: inline;
+    }
+
+    /* main search section */
+
+    .search-heading,
+    .search-section {
+        max-width: 660px;
+        margin: 0 auto;
+    }
+
+    /* main about section */
+
+    .about-section {
+        margin: 0 auto;
+        padding: 2rem 0.5rem 1rem 0.5rem;
+
+    }
+
+    .courses-div {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: center;
+
+    }
+
+    .about-sec-article {
+        max-width: 460px;
+        margin: 15px;
+    }
+
+    /* main details section */
+
+    .ds-art-div {
+        text-align: center;
+        margin: 0.5rem;
+
+    }
+
+    .ds-article {
+        display: block;
+        width: 33%;
+        position: relative;
+        padding-bottom: 5rem;
+    }
+
+    .details-section {
+        display: flex;
+        margin-bottom: 2rem;
+    }
+
+    .ds-art-div .how-btn {
+        position: absolute;
+
+        left: 25%;
+        right: 25%;
+        bottom: 5%;
+    }
+
+
+}
