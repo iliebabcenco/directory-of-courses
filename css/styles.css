@@ -247,4 +247,45 @@ footer {
   background: url(../assets/images/rubyonrailsbeg.jpg) no-repeat;
   background-size: cover; }
 
+.selection-result-article {
+  margin: 6rem auto 2rem auto;
+  width: 95%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  text-align: center;
+  padding: 2rem 2rem 2rem 2rem; }
+
+.selection-details-section {
+  font-weight: bold;
+  font-size: 1rem;
+  color: black; }
+
+.selection-details-section span {
+  color: #1c76b3; }
+
+.ds-description {
+  line-height: 30px;
+  width: 95%;
+  margin: 0 auto 1rem auto;
+  font-weight: 700; }
+
+.more-div {
+  background-color: #DFE2E3;
+  margin: 0 auto 3rem auto;
+  width: 95%;
+  text-align: center;
+  padding: 1.2rem; }
+
+.more-div a {
+  color: black;
+  letter-spacing: 1rem; }
+
+.location-div {
+  margin: 0 auto;
+  width: 95%;
+  text-align: center; }
+
+.location-div iframe {
+  width: 100%;
+  height: 480px; }
+
 /*# sourceMappingURL=styles.css.map */
