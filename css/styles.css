@@ -189,13 +189,12 @@ footer {
   text-align: right; }
 
 .results-article {
-  margin: 2rem auto;
-  width: 28rem;
-  height: 28rem; }
+  margin: 1rem auto 1rem auto;
+  width: 90%;
+  height: 26rem; }
 
 .results-article h3 {
   text-align: center;
-  top: 30rem;
   background-color: rgba(255, 255, 255, 0.7);
   width: 20rem;
   position: relative;
