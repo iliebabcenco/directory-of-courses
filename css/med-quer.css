@@ -52,8 +52,40 @@
     .top-part-ul {
         display: flex;
         align-items: center;
-        justify-content: space-around;
+        justify-content: center;
         max-width: 1300px;
+        border: none;
+    }
+
+    .inner-tp-ul {
+        min-width: 330px;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        border-top: 1px solid gray;
+        border-bottom: 1px solid gray;
+        line-height: 40px;
+    }
+
+    .top-part-div {
+        display: flex;
+        justify-content: space-around;
+        max-width: 1400px;
+        margin: 0 auto;
+    }
+
+    .top-part-div form,
+    .top-part-div section {
+        width: 33%;
+    }
+
+    .top-part-div #tf-2 {
+        width: 8rem;
+    }
+
+    .bottom-part {
+        display: flex;
+        justify-content: space-between;
     }
 
 }
@@ -126,10 +158,25 @@
 
     .ds-art-div .how-btn {
         position: absolute;
-
         left: 25%;
         right: 25%;
         bottom: 5%;
+    }
+
+    /* footer */
+
+    .inner-tp-ul {
+        min-width: 470px;
+    }
+
+    .top-part-div #tf-2 {
+        width: 12rem;
+    }
+
+    .top-part,
+    .bottom-part {
+        max-width: 1100px;
+        margin: 0 auto;
     }
 
 

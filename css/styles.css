@@ -126,8 +126,10 @@ nav {
 footer {
   font-size: 0.8rem; }
 
+.top-part-wrap {
+  background-color: black; }
+
 .top-part {
-  background-color: black;
   color: white;
   padding: 2rem; }
 
@@ -159,6 +161,9 @@ footer {
   color: gray;
   margin-right: 1rem; }
 
+.bottom-part-wrap {
+  background-color: #1f1f1f; }
+
 .bottom-part {
   padding: 2rem;
   background-color: #1f1f1f;
@@ -169,7 +174,8 @@ footer {
 
 #tf-2 {
   width: 15rem;
-  height: 3rem; }
+  height: 3rem;
+  background-color: black; }
 
 .input-group {
   padding: 1rem 0; }
