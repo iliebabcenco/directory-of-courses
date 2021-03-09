@@ -16,6 +16,10 @@ Additional description about the project and its features.
 - Frameworks
 - Technologies used
 
+| View on large screen | View on medium screen | View on small screen |
+| --- | --- | --- |
+| ![](/assets/) | ![](/assets/) | ![](/assets/) |
+
 ## Live Demo
 
 [Live Demo Link](https://livedemo.com)
