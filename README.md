@@ -57,10 +57,9 @@ At the moment it has three pages:
 **Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
 
 
-To get a local copy up and running follow these simple example steps.
-
 ### Usage
 
+To get a local copy up and running follow these simple example steps.
 1. Clone it on your local computer by running git clone git@github.com:iliebabcenco/directory-of-courses.git;
 2. Fork this repository.
 
@@ -79,17 +78,11 @@ This web application is deploied on Netlify [live](https://mind-compilator.netli
 
 ## Authors
 
-👤 **Author1**
+👤 **Ilie Babcenco**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
+- GitHub: [@iliebabcenco](https://github.com/iliebabcenco)
+- LinkedIn: [@iliebabcenco](https://www.linkedin.com/in/ilie-babcenco-72459a1b1/)
+- Twitter: [@iliebabcenco](https://twitter.com/BabcencoIlie)
 
 ## 🤝 Contributing
 
