@@ -11,6 +11,11 @@ a {
   text-decoration: none;
   color: white; }
 
+a:hover,
+button:hover,
+.menu-list-item a:hover {
+  color: #509BD7; }
+
 ul {
   list-style-type: none;
   margin: 0;
@@ -23,9 +28,9 @@ nav {
 
 .logo {
   font-family: "Brush Script MT, Brush Script Std", cursive;
-  font-size: 2rem;
+  font-size: 1.8rem;
   color: white;
-  width: 13rem;
+  width: 17rem;
   margin: 0 auto 1rem auto; }
 
 .menu-list {

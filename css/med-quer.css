@@ -169,7 +169,7 @@
 
     .ds-article {
         display: block;
-        width: auto;
+        width: 33.333333333%;
         position: relative;
         padding-bottom: 5rem;
     }
