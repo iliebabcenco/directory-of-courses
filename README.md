@@ -59,15 +59,19 @@ At the moment it has three pages:
 
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
-
-### Setup
-
-### Install
-
 ### Usage
 
+1. Clone it on your local computer by running git clone git@github.com:iliebabcenco/directory-of-courses.git;
+2. Fork this repository.
+
 ### Run tests
+
+The project passed all Webhint and Stylelint tests.
+
+For this purpose you can run:
+
+* npx hint .
+* npx stylelint "**/*.{css,scss}"
 
 ### Deployment
 
@@ -91,7 +95,9 @@ This web application is deploied on Netlify [live](https://mind-compilator.netli
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](issues/).
+If you want to contribute, you can clone this project or fork it.
+
+If you found an issue, feel free to check the [issues page](https://github.com/iliebabcenco/directory-of-courses/issues).
 
 ## Show your support
 
@@ -99,10 +105,5 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
-## 📝 License
-
-This project is [MIT](lic.url) licensed.
+* [Microverse](https://www.microverse.org/)
+* [Mathew Njuguna](https://www.behance.net/mathewnjuguna)
