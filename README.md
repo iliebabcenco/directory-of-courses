@@ -3,18 +3,18 @@
 
 # Mind Compilator
 
-I did this project in learning purposes as a capstone project from Microverse after completing HTML 2.0 curriculum.
-The design is the same of [PatashuleKE](https://www.behance.net/gallery/25563385/PatashuleKE) by [Mathew Njuguna](https://www.behance.net/mathewnjuguna) which I have used for learning purposes with customized content (programming languages courses).
+I did this project for learning purposes as a capstone project from Microverse after completing HTML 2.0 curriculum.
+The design is the same as [PatashuleKE](https://www.behance.net/gallery/25563385/PatashuleKE) by [Mathew Njuguna](https://www.behance.net/mathewnjuguna) which I have used for learning purposes with customized content (programming languages courses).
 
 
 ## Description
 
-Mind Compilator is a web application which allows study and improvement of programming languages. It helps to find the best learning content depending on the user's capabilities. 
+Mind Compilator is a web application that allows the study and improvement of programming languages. It helps to find the best learning content depending on the user's capabilities. 
 
 At the moment it has three pages:
 * main page with a searching bar, description and offers sections;
 * result page with a filter bar and the results of filters;
-* details page which contains detailed information about the user's choiche.
+* details page which contains detailed information about the user's choices.
 
 
 ## Built With
