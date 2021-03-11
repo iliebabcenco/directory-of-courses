@@ -1,0 +1,5 @@
+.hintrc
+.sass-cache/
+.stylelintrc.json
+scss/
+public/
